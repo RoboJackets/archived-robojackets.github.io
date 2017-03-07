@@ -1,0 +1,10 @@
+# Site settings
+title: RoboJackets@Github
+tag_text: RoboJackets
+description: RoboJackets Github Landing Page
+
+# Build settings
+markdown: kramdown
+exclude: ["README.org"]
+sass:
+  style: compressed
