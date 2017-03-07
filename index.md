@@ -2,33 +2,31 @@
 layout: default
 ---
 
-[Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
+[RoboJackets](http://www.robojackets.org) is a Georgia Tech student organization, engaging in BattleBots, FIRST, RoboCup, Intelligent Ground Vehicle Competition, and RoboRacing.
 
-Looking for a more standard Jekyll theme? Try out [Shiori](http://github.com/ellekasai/shiori) theme, which has Bootstrap integration.
+## RoboJackets Software Projects
 
-## Solo is useful if...
+### [RoboCup](https://robojackets.org/teams/robocup/)
+- [RoboCup Software Home](https://github.com/RoboJackets/robocup-software)
+- [RoboCup Firmware Home](https://github.com/RoboJackets/robocup-firmware)
+- [RRT Implementation](https://github.com/RoboJackets/rrt)
+- [RoboCup Common Files](https://github.com/RoboJackets/robocup-common)
+- [RoboCup Training Guides](https://github.com/RoboJackets/robocup-training)
+- [PCB Design Files](https://github.com/RoboJackets/robocup-pcb)
 
-* You want to create an "about me" page from a single markdown file and host it under a custom domain name.
-* You want to create a single-page website that's mostly text, like [Know Your Company](https://knowyourcompany.com/).
-* You want to share a single markdown file and tried GitHub Gist ([example](https://gist.github.com/dypsilon/5819504)), but would like something nicer-looking.
-* You want something like GitHub's [automatic page generator](http://pages.github.com/) for a non-code repository.
+### [IGVC](https://robojackets.org/teams/intelligent-ground-vehicle-competition/)
+- [IGVC Software](https://github.com/RoboJackets/igvc-software)
+- [IGVC Electrical](https://github.com/RoboJackets/igvc-electrical)
 
-This page itself is built with Solo. It's generated from [this markdown file](https://github.com/chibicode/solo/blob/gh-pages/_includes/index.md).
+### [RoboRacing](https://robojackets.org/teams/roboracing/)
+- [RoboRacing Software](https://github.com/RoboJackets/roboracing-software)
+- [RoboRacing Electrical](https://github.com/RoboJackets/roboracing-electrical)
 
-## Usage
+### Training
+- [RoboJackets Software Training](https://github.com/RoboJackets/software-training)
+- [RoboJackets Electrical Training](https://github.com/RoboJackets/electrical-training)
+- [QT Example Project](https://github.com/RoboJackets/qt-example)
 
-First, [install Jekyll](http://jekyllrb.com/docs/installation/). Then download Solo from its [GitHub Repository](https://github.com/chibicode/solo). Start Jekyll and you should see this page up and running.
-
-**The main file you'll be editing is `index.md`**. This becomes the content for the page.
-
-### Other Files
-
-* Edit `_config.yml` to change the site's title and description.
-* Edit `_includes/head.html` to add custom code to `<head>`.
-* Edit `_includes/scripts.html` to add custom code before `</body>`.
-* Edit `CNAME` to host on a custom domain.
-* Edit `README.md` before pushing your code.
-
-### Don't use `<h1>` tags
-
-Wthin `index.md`, do not use `<h1>` tags - `<h1>` is reserved for the site title.
+### Misc
+- [Inventory](https://github.com/RoboJackets/inventory-management)
+- [Beekeeper](https://github.com/RoboJackets/beekeeper)
