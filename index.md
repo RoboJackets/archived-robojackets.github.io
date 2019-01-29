@@ -6,7 +6,7 @@ layout: default
 
 ## RoboJackets Software Projects
 
-### [RoboCup](https://robojackets.github.io/robocup)
+### [RoboCup - Master FOSS Page](https://robojackets.github.io/robocup)
 
 ### [IGVC](https://robojackets.org/teams/intelligent-ground-vehicle-competition/)
 - [IGVC Software](https://github.com/RoboJackets/igvc-software)
