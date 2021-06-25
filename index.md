@@ -9,7 +9,6 @@ layout: default
 ### [RoboCup](https://robojackets.org/teams/robocup/)
 - [RoboCup Software Home](https://github.com/RoboJackets/robocup-software)
 - [RoboCup Firmware Home](https://github.com/RoboJackets/robocup-firmware)
-- [RRT Implementation](https://github.com/RoboJackets/rrt)
 - [RoboCup Common Files](https://github.com/RoboJackets/robocup-common)
 - [RoboCup Training Guides](https://github.com/RoboJackets/robocup-training)
 - [PCB Design Files](https://github.com/RoboJackets/robocup-pcb)
